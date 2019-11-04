@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "console": "integratedTerminal",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Snake<SnakeGame_1d94f0fe>",
+            "request": "launch",
+            "mainClass": "Snake",
+            "projectName": "SnakeGame_1d94f0fe"
+        }
+        
+    ]
+}
